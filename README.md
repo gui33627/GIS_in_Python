@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# GIS\_in\_Python
+# Geospatial Analysis in Python
 
 <!-- badges: start -->
 <!-- badges: end -->
